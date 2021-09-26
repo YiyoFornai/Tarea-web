@@ -1,0 +1,41 @@
+
+			#principal {
+				border: solid 1px #ccc;
+				margin: 0 auto;
+				padding: 5px;
+				width: 80%;
+				background: #fff2cc;
+				font-family: 'Courier New', Courier, monospace;
+			}
+			
+						
+			body {
+				background:url(https://i.gifer.com/HKJR.gif);
+				background-size: 100%;
+				background-attachment:fixed;
+				
+				
+			}
+			
+			fieldset {
+				margin-bottom:10px;
+			}
+			
+			legend {
+				border:	solid 1px #0c5;
+				padding: 5px;
+				font-weight: bold;
+				border-radius: 15px;
+				background: #cae;
+			}
+			
+			#miFoto {
+				margin:5px;
+				border:solid 4px #6fa8dc;
+			}
+			
+			footer {
+				text-align: center;
+				padding-top:10px;
+				
+			}
